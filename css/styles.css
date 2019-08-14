@@ -18,6 +18,14 @@ h1{
     font-weight: bold;
 }
 
+h3{
+    font-family: "Montserrat-Bold";
+}
+
+p{
+    color: #8f8f8f;
+}
+
 /* Navigation Bar */
 
 .navbar{
@@ -50,3 +58,21 @@ h1{
     transform: rotate(25deg);
 }
 
+/* Feature Section */
+#features {
+    padding:7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
